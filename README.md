@@ -14,5 +14,5 @@
 - Ngày bắt đầu: `02/09/2024`
 - Năm học: `2024-2025`
 ## **3. GIẢNG VIÊN HƯỚNG DẪN**
-- PGS.TS. Lê Đình Duy - `<u>duydl@uit.edu.vn</u>`
-- ThS. Phạm Nguyễn Trường An - `<u>truonganpn@uit.edu.vn</u>`
+- PGS.TS. Lê Đình Duy - duydl@uit.edu.vn
+- ThS. Phạm Nguyễn Trường An - truonganpn@uit.edu.vn
