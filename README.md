@@ -1,6 +1,4 @@
-<p align="center">
-  <h1><strong>CS114.P11</strong></h1>
-</p>
+# CS114.P11
 
 ## **1. Giới thiệu về bản thân** 
 - MSSV: `22521342`
