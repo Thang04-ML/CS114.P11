@@ -1,5 +1,5 @@
 <p align="center">
-	CS114.P11
+	# CS114.P11
 </p>
 
 ## **1. Giới thiệu về bản thân** 
@@ -14,5 +14,5 @@
 - Ngày bắt đầu: `02/09/2024`
 - Năm học: `2024-2025`
 ## **3. GIẢNG VIÊN HƯỚNG DẪN**
-- PGS.TS. Lê Đình Duy - duydl@uit.edu.vn
-- ThS. Phạm Nguyễn Trường An - truonganpn@uit.edu.vn
+- PGS.TS. Lê Đình Duy - `duydl@uit.edu.vn`
+- ThS. Phạm Nguyễn Trường An - `truonganpn@uit.edu.vn`
